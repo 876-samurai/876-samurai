@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **crystalmcintosh876@gmail.com**
 
-- ⚡ Fun fact **I'm a passionate cook, and my Jamaican heritage flavors every dish I create!"** </div>
+- ⚡ Fun fact **I'm a passionate cook, and my Jamaican heritage flavors every dish I create!** </div>
 <div class="flex">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
